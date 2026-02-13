@@ -69,3 +69,6 @@ _**📩 Contact Form (Message Storage in Admin):**_
 | product-detail  | Individual cake details |
 | contact         | Contact form page       |
 | contact_message | Stores user messages    |
+
+
+
