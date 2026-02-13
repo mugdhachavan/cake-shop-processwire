@@ -1,0 +1,3 @@
+2026-02-12 08:24:20	admin	http://localhost/Demo/processwire/module/edit?name=WireMailSmtp&collapse_info=1	Error in ProcessWire\hnsmtp::send : cannot connect to smtp-server!
+2026-02-12 08:29:19	admin	http://localhost/Demo/processwire/module/edit?name=WireMailSmtp&collapse_info=1	Error in ProcessWire\hnsmtp::send : cannot connect to smtp-server!
+2026-02-12 08:34:55	admin	http://localhost/Demo/processwire/module/edit?name=WireMailSmtp&collapse_info=1	Error in ProcessWire\hnsmtp::send : it were not specified any valid recipients

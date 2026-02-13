@@ -1,0 +1,21 @@
+2026-02-10 11:45:32	admin	http://localhost/Demo/processwire/setup/field/edit?id=108	Populated initial created/modified dates for 'hero_image'
+2026-02-10 11:49:08	admin	http://localhost/Demo/processwire/module/	Populated initial created/modified dates for 'language_files_site'
+2026-02-10 11:49:08	admin	http://localhost/Demo/processwire/module/	Populated initial created/modified dates for 'language_files'
+2026-02-10 11:57:18	admin	http://localhost/Demo/processwire/setup/template/removeFields	Deleted field "home_title" data in 1 row(s) from 1 page(s) using template "home". [page-by-page]
+2026-02-10 11:57:18	admin	http://localhost/Demo/processwire/setup/template/removeFields	Deleted field "home_content" data in 1 row(s) from 1 page(s) using template "home". [page-by-page]
+2026-02-10 12:52:44	admin	http://localhost/Demo/processwire/setup/template/removeFields	Deleted field "about_title" data in 4 row(s) from 4 page(s) using template "about". [page-by-page]
+2026-02-10 12:52:44	admin	http://localhost/Demo/processwire/setup/template/removeFields	Deleted field "about_body" data in 4 row(s) from 4 page(s) using template "about". [page-by-page]
+2026-02-10 12:53:18	admin	http://localhost/Demo/processwire/page/edit/?id=1032	Populated initial created/modified dates for 'about_image'
+2026-02-11 06:24:53	admin	http://localhost/Demo/processwire/setup/template/removeFields	Deleted field "product_title" data in 2 row(s) from 2 page(s) using template "product". [page-by-page]
+2026-02-11 06:24:53	admin	http://localhost/Demo/processwire/setup/template/removeFields	Deleted field "product_items" data in 2 row(s) from 2 page(s) using template "product". [page-by-page]
+2026-02-11 06:24:53	admin	http://localhost/Demo/processwire/setup/template/removeFields	Deleted field "product_body" data in 2 row(s) from 2 page(s) using template "product". [page-by-page]
+2026-02-11 06:36:57	admin	http://localhost/Demo/processwire/setup/template/removeFields	Deleted field "productbody" data in 0 row(s) from 0 page(s) using template "product". [page-by-page]
+2026-02-11 06:36:57	admin	http://localhost/Demo/processwire/setup/template/removeFields	Populated initial created/modified dates for 'product_image'
+2026-02-11 06:36:57	admin	http://localhost/Demo/processwire/setup/template/removeFields	Deleted field "product_image" data in 0 row(s) from 0 page(s) using template "product". [page-by-page]
+2026-02-11 06:36:57	admin	http://localhost/Demo/processwire/setup/template/removeFields	Deleted field "short_description" data in 0 row(s) from 0 page(s) using template "product". [page-by-page]
+2026-02-11 06:36:57	admin	http://localhost/Demo/processwire/setup/template/removeFields	Deleted field "product_category" data in 0 row(s) from 0 page(s) using template "product". [page-by-page]
+2026-02-11 06:36:58	admin	http://localhost/Demo/processwire/setup/template/removeFields	Deleted field "product_price" data in 0 row(s) from 0 page(s) using template "product". [page-by-page]
+2026-02-11 06:36:58	admin	http://localhost/Demo/processwire/setup/template/removeFields	Deleted field "availability" data in 0 row(s) from 0 page(s) using template "product". [page-by-page]
+2026-02-11 11:33:43	admin	http://localhost/Demo/processwire/setup/field/send-templates-save?id=108	Deleted field "featured_products" data in 0 row(s) from 0 page(s) using template "home". [page-by-page]
+2026-02-11 11:38:47	admin	http://localhost/Demo/processwire/setup/field/save?id=135	Deleted field "hero_image" data in 0 row(s) from 0 page(s) using template "repeater_featured_products". [page-by-page]
+2026-02-11 13:07:50	admin	http://localhost/Demo/processwire/setup/template/removeFields	Deleted field "icon" data in 0 row(s) from 0 page(s) using template "about". [page-by-page]
